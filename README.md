@@ -10,9 +10,13 @@ Python 2.x与3.x区别：http://www.runoob.com/python/python-2x-3x.html
 
 #Python入门教程（包括开发环境搭建）：
 廖雪峰（2.x/3.x）: http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
 菜鸟教材(2.x)：http://www.runoob.com/python/python-tutorial.html
-小甲鱼python视频教程（96课）（有条件购买鱼c工作室vip下载正版，无条件e-mail【ityoung[at]126[dot]com】索取）
+
+小甲鱼python视频教程（96课）（有条件购买鱼c工作室vip下载正版，无条件e-mail【ityoung@126.com】索取）
+
 官方文档：https://www.python.org/doc/
+
 参考书：python核心编程（第二版）（购买实体书，或自行百度pdf）
 
 #IDE推荐：
