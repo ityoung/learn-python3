@@ -12,7 +12,7 @@ db_path = "G:\pycharm_project\CRAWLER.db"
 url = "https://movie.douban.com/top250/?start="
 movie_items = []
 
-def crawler():    #crawl movie list
+def Sphinx():    #crawl movie list
     for page in range(10):
         src_html = requests.get(url+str(page*25), header)
         soup = BeautifulSoup(src_html.text, "html.parser")
@@ -45,5 +45,5 @@ def data_2_db():    #db operator
     cursor.close()
     conn.close()
 
-crawler()
+Sphinx()
 data_2_db()
