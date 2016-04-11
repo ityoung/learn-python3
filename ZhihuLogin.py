@@ -1,6 +1,9 @@
+'''
+Created on 2016-3-30
+@author: young
+'''
 from bs4 import BeautifulSoup as BS
 import requests
-
 
 url = 'http://www.zhihu.com'
 login_url = url+'/login/email'
