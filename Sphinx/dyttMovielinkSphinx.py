@@ -1,3 +1,8 @@
+'''
+Created on 2016-4-10
+@author: young
+Func: Crawling dytt Movie links
+'''
 import requests,re,time
 from bs4 import BeautifulSoup as BS
 
