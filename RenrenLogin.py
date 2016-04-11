@@ -1,3 +1,7 @@
+'''
+Created on 2016-4-11
+@author: young
+'''
 import re,requests
 from bs4 import BeautifulSoup as BS
 class Renren():
