@@ -1,3 +1,8 @@
+'''
+Created on 2016-3-25
+@author: young
+Func: Crawling FBI warning novels
+'''
 import requests,urllib.request,re,json
 from bs4 import BeautifulSoup as BS
 
